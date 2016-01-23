@@ -33,9 +33,9 @@ Generated data
 
 The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
 
-Subject: Study participants (persons), ranging from 1-30
-Activity: Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
-Features: Measures obtained from the smartphone. Normalized and bounded within [-1,1]. A detailed description of all features is found in the codebooks of the input data.
+* Subject: Study participants (persons), ranging from 1-30
+* Activity: Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
+* Features: Measures obtained from the smartphone. Normalized and bounded within [-1,1]. A detailed description of all features is found in the codebooks of the input data.
 
 
 Any additional information on the labels of the included variables, units of measurement, and other information regarding the source data can be found in the codebooks of the input data.
