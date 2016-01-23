@@ -28,3 +28,6 @@ Generated data
 * subsetdata: Only the measurements on the mean and standard deviation for each measurement of "fulldata"
 
 * tidyData: The average of each variable for each activity and each subject of "subsetdata"
+
+The labels of the included variables, units of measurement, and other information regarding the source data can be found in the codebooks of the input data.
+
